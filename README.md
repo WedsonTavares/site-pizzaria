@@ -10,31 +10,5 @@
 
 ### Este projeto é a criação de um site para uma Pizzaria ficticia.
 
-<p> 
-    <img width="1000" height="600" src="src/gif7.gif" >
-</p>
-
-
 ### Para o desenvolvimento desse projeto foram desenvolvidas diversas habilidades com CSS, HTML e JS.
 
-### Nele existem questões referentes a posicionamento de elementos, display grid, flex, hover entre outros.
-
-### Cada sessão do site consta no menu superior e ao clicar em cada parte o úsuario é navegado para a sessão.
-
-<p> 
-    <img width="1000" height="600" src="src/gif8.gif" >
-</p>
-
-
-### Este projeto é responsivo, o javascript auxiliou para a criação de um menu hamburguer para telas menores.
-
-<p> 
-    <img width="1000" height="600" src="src/gif9.gif" >
-</p>
-
-
-### e o display grid para o possicionamento do cardápio
-
-<p> 
-    <img width="1000" height="600" src="src/gif10.gif" >
-</p>
